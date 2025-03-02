@@ -33,5 +33,5 @@ app.get("/", (req, res) => {
 
 // Start server
 app.listen(PORT, () => {
-  console.log(`🎲 Dice Roller API is running on port ${PORT}`);
+  console.log(`🎲 Dice Roller API1 is running on port ${PORT}`);
 });
