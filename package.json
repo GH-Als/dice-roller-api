@@ -1,9 +1,9 @@
 {
-  "name": "dice-roller-api",
+  "name": "dice-roller-api1",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No tests specified\""
+    "test": "echo \"Skipping tests\""
   },
   "keywords": [],
   "author": "",
